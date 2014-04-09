@@ -1,4 +1,3 @@
-require 'dir'
 Gem::Specification.new do |s|
   s.name        = 'shippo'
   s.version     = '0.0.1'
